@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development mainly front-end development. <br>👯 I’m looking to collaborate on any web development works<br>🤝 I’m looking for help with my back-end guideline<br>🌱 I’m currently learning node.js<br>💬 Ask me about my work-related queries<br>⚡ Fun fact- I am a lazy but a quick learner
+🔭 I’m currently working on web development mainly front-end development. <br>👯 I’m looking to collaborate on any web development works specifically in front-end developing<br>🤝 I’m looking for help with my back-end guideline<br>🌱 I’m currently learning node.js<br>💬 Ask me about my work-related queries<br>⚡ Fun fact- I am a lazy but a quick learner
 
 
 ## 🌐 Socials:
